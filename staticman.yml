@@ -18,7 +18,7 @@ comments:
   #
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
-  # (e.g. <input name="options[origin]" value="https://yourdomain.com/post1")
+  # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
   # allowedOrigins: ["https://example.com"]
 
   # (*) REQUIRED
@@ -63,11 +63,11 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  # name: "Your Site"
+  # name: "PraxiSec Projects"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
-  # with Mailgun, which you can get for free at https://mailgun.com.
+  # with Mailgun, which you can get for free at http://mailgun.com.
   # notifications:
     # Enable notifications
     # enabled: true
@@ -103,8 +103,8 @@ comments:
   # 3. Uncomment `siteKey` and `secret` and fill them in with your values
   reCaptcha:
     enabled: false
-    #siteKey: ""
+    siteKey: 6LeWascUAAAAAIwWQIuqlAvA2YQCqWIRjmjgvfZr
     # ENCRYPT reCaptcha secret key using Staticman /encrypt endpoint
     # i.e. https://{STATICMAN API INSTANCE}/v3/encrypt/{your-site-secret}
     # For more information, visit https://staticman.net/docs/encryption
-    #secret: ""
+    secret: Z3OLIfg/8mt4uThi59KmVAPLzVKxLq2EfKVRh6SUWOkX7Uf6LVXdc1IwcrJerDE203G1BzE3ZeTt18dPg/l/aoNcz6Ar5Bmq+nPszBhz1/TQoDQYsG1GGzvKppwaFAjIZkrZo+h/VoWiD9oIdhuD3u7kvM5HsrEFB1kyupCJqCw=
