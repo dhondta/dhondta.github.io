@@ -42,7 +42,7 @@ footer-text-col: "#F8F2FC"
 footer-link-col: "#61018A"
 
 # Personal data and social media
-avatar: /assets/img/me.png
+avatar: /assets/img/avatar.png
 author: Alexandre D'Hondt
 social-network-links:
   rss: true
@@ -126,6 +126,7 @@ link-tags: true
 exclude:
   - CNAME
   - LICENSE
+  - Gemfile
   - README.md
 
 plugins:
