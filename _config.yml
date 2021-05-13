@@ -28,7 +28,6 @@ navbar-links:
     - 'LaTeX Course Index Template': /tex-course-index-template
     - 'LaTeX Master Thesis Template': /tex-master-thesis-template
     - 'Steganography Tools': /stegano-tools
-  PraxiSec: "https://www.praxisec.be"
 
 # Color options
 navbar-col: "#7E4FAD"
