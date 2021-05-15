@@ -1,0 +1,191 @@
+- name:     Alexandre D'Hondt
+  email:    alexandre.dhondt@gmail.com
+  linkedin: alexandre-d-hondt-2ab2aa14
+  title:    ir²
+  job:      IT Security Expert
+  
+  summary: I'm a computer security professional, passionate about cybersecurity and programming (especially Python). My main goals are to constantly improve my competences, provide meticulous quality work and to share knowledge with other professionals. My current field of development is the Application Security for building secure environments in depth. For this purpose, I try to study as much related matters as possible in order to turn this knowledge into exploitable projects and processes.\nIn my spare time, I love going abroad with my sweetheart for doing exciting activities like rafting, scuba diving, hiking and so forth.
+  
+  experience:
+    - logo:  /assets/img/logos/praxisec.png
+      title: IT Security Consultant
+      org:   PraxiSec
+      start: Jul 2019
+    
+    - logo:  /assets/img/logos/bedef.png
+      title: Vulnerability Assessment Team Lead
+      org:   Belgian Defence
+      start: Nov 2017
+    
+    - logo:  /assets/img/logos/bedef.png
+      title: Application Security Team Lead
+      org:   Belgian Defence
+      start: Jul 2015
+      end:   Nov 2017
+    
+    - logo:  /assets/img/logos/bedef.png
+      title: Infosec Analyst
+      org:   Belgian Defence
+      start: Mar 2013
+      end:   Jul 2015
+    
+    - logo:  /assets/img/logos/bedef.png
+      title: Technical Officer
+      org:   Belgian Defence
+      start: Mar 2010
+      end:   Mar 2013
+  
+  education:
+    - logo:  /assets/img/logos/ulb.png
+      title: Master in Cybersecurity, Secure System Design & Analysis
+      org:   Université Libre de Bruxelles
+      start: Sep 2016
+      end:   Sep 2021
+    
+    - logo:  /assets/img/logos/uclouvain.png
+      title: Master of Engineering in Computing Sciences, Network & Security
+      org:   Université catholique de Louvain
+      start: Sep 2013
+      end:   Sep 2016
+    
+    - logo:  /assets/img/logos/rma.png
+      title: Civil Engineer Polytechnician, Telecommunications, Applied Sciences
+      org:   Royal Military Academy
+      start: Sep 2003
+      end:   Dec 2008
+  
+  certifications:
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Certified Incident Handler (GCIH)
+      org:   GIAC Certifications
+      start: Dec 2013
+      end:   Dec 2021
+      id:    23159
+      url:   https://www.youracclaim.com/badges/23743bf0-a972-40c7-8079-e32dab63d651
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Certified Windows Security Administrator (GCWN)
+      org:   GIAC Certifications
+      start: Apr 2015
+      end:   Apr 2023
+      id:    3024
+      url:   https://www.youracclaim.com/badges/4bbb71eb-01eb-4106-b1ea-74331c471c20
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Systems and Network Auditor (GSNA)
+      org:   GIAC Certifications
+      start: Nov 2015
+      end:   Nov 2023
+      id:    4595
+      url:   https://www.youracclaim.com/badges/2c91ab52-d834-46a8-b5b8-8189e55740ed
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Certified Enterprise Defender (GCED)
+      org:   GIAC Certifications
+      start: Jan 2017
+      end:   Jan 2025
+      id:    2449
+      url:   https://www.youracclaim.com/badges/453cc433-d0f4-4901-8045-e511ee667f00
+    
+    - logo:  /assets/img/logos/openclassrooms.png
+      title: Créez une application web avec Python et Django
+      org:   OpenClassrooms
+      start: Feb 2016
+      id:    968573309
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Critical Controls Certification (GCCC)
+      org:   GIAC Certifications
+      start: Dec 2017
+      end:   Dec 2021
+      id:    968
+      url:   https://www.youracclaim.com/badges/66b51c17-95fa-4e0d-88e9-f9cae5a3e099
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Penetration Tester (GPEN)
+      org:   GIAC Certifications
+      start: May 2018
+      end:   Jun 2022
+      id:    12811
+      url:   https://www.youracclaim.com/badges/43acf2ec-2293-487b-add4-09a0064cafa7
+    
+    - logo:  /assets/img/logos/comptia.png
+      title: IT Fundamentals+
+      org:   CompTIA
+      start: Aug 2018
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Web Application Penetration Tester (GWAPT)
+      org:   GIAC Certifications
+      start: Jan 2019
+      end:   Jan 2023
+      id:    7201
+      url:   https://www.youracclaim.com/badges/5fb98ae9-b372-4fd8-b25e-4a239fb954c8
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Advisory Board
+      org:   GIAC Certifications
+      start: Dec 2013
+      end:   Jan 2023
+      url:   https://www.youracclaim.com/badges/cfdcf39e-bb0a-4d15-bb8c-2341dabdd39b
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Assessing and Auditing Wireless Networks (GAWN)
+      org:   GIAC Certifications
+      start: Apr 2019
+      end:   Apr 2023
+      id:    2883
+      url:   https://www.youracclaim.com/badges/c380cf2a-0853-4432-8a74-f2f3dbd6a7ab
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Python Coder (GPYC)
+      org:   GIAC Certifications
+      start: Aug 2019
+      end:   Aug 2023
+      id:    713
+      url:   https://www.youracclaim.com/badges/54a66840-3012-4a3d-8175-047644b441ec
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Security Leadership Certification (GSLC)
+      org:   GIAC Certifications
+      start: Oct 2019
+      end:   Oct 2023
+      id:    10368
+      url:   https://www.youracclaim.com/badges/19edf9a7-dba2-4555-9fb0-a50b35223ec7
+    
+    - logo:  /assets/img/logos/giac.png
+      title: Global Industrial Cyber Security Professional (GICSP)
+      org:   GIAC Certifications
+      start: Mar 2020
+      end:   Mar 2024
+      id:    2910
+      url:   https://www.youracclaim.com/badges/5cf2edc3-e0de-4d44-b22f-fa661f4e01d5
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Security Essentials Certification (GSEC)
+      org:   GIAC Certifications
+      start: Jul 2020
+      end:   Jul 2024
+      id:    47757
+      url:   https://www.youracclaim.com/badges/72037c92-b337-4680-a95d-e08e1493c100
+    
+    - logo:  /assets/img/logos/giac.png
+      title: GIAC Mobile Device Security Analyst (GMOB)
+      org:   GIAC Certifications
+      start: Sep 2020
+      end:   Sep 2024
+      id:    1462
+      url:   https://www.youracclaim.com/badges/42feb3b1-f847-4324-ab11-3665ca350c5a
+  
+  skills:
+    - Cybersecurity
+    - Python
+    - Software Development
+    - Automation
+    - Web Development
+    - LaTeX
+    - Linux
+    - Bash
+    - Git
+    - Django
+
