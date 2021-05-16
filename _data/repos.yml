@@ -1,0 +1,70 @@
+- name:  Python
+  title: Python Modules
+  repos:
+    - title:    ASCIIStuff
+      subtitle: Library for producing ASCII arts
+      rpath:    python-asciistuff
+
+    - title:    CodExt
+      subtitle: Python codecs extension
+      rpath:    python-codext
+
+    - title:    PyBots
+      subtitle: Devkit for quickly creating client bots for remote communications
+      rpath:    python-pybots
+
+    - title:    SploitKit
+      subtitle: Devkit for building Metasploit-like consoles
+      rpath:    python-sploitkit
+
+    - title:    TinyScript
+      subtitle: Devkit for quickly building CLI tools with Python
+      rpath:    python-tinyscript
+
+
+- name: Projects
+  repos:
+    - title:    AppMemDumper
+      subtitle: Forensics triage tool relying on Volatility and Foremost
+
+    - title:    Bots Scheduler
+      subtitle: Cron-like system based on Nextdoor Scheduler, PyBots and Tinyscript
+
+    - title:    DroneSploit
+      subtitle: Drone pentesting framework console
+
+    - title:    Malicious Macro Tester
+      subtitle: CLI tool for testing Office documents with macros using MaliciousMacroBot
+
+    - title:    Recursive Compression
+      subtitle: Tinyscript tool for recursively (de)compressing nested archives using multiple algorithms (bzip2, rar, lzma, ...)
+
+    - title:    RPL Attacks Framework
+      subtitle: RPL attacks framework for simulating WSN with a malicious mote based on Contiki
+      path:     rpl-attacks
+
+    - title:    WebGrep
+      subtitle: Web page Grep-like easy-to-extend tool with extra features like JS deobfuscation and OCR
+
+    - title:    Zotero CLI
+      subtitle: Tinyscript tool for sorting and exporting Zotero references based on pyzotero
+
+
+- name:  Others
+  repos:
+    - title:    LaTeX Book Template
+      subtitle: Template for writing a nice book with LaTeX
+      path: tex-book-template
+
+    - title:    LaTeX Course Index Template
+      subtitle: Template for writing a condensed course index leveraging LaTeX indexing
+      path: tex-course-index-template
+
+    - title:    LaTeX Master Thesis Template
+      subtitle: Template for writing a nice master thesis dissertation with LaTeX
+      path: tex-master-thesis-template
+
+    - title:    Steganography Tools
+      subtitle: Collection of steganography tools based on Tinyscript
+      path: stegano-tools
+

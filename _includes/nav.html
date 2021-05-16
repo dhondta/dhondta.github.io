@@ -33,6 +33,21 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
+      {%- for category in site.data.repos -%}
+        <li class="nav-item dropdown">
+          {% assign title = category.title | default: category.name %}
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ title }}</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {%- for repo in category.repos -%}
+              {% assign root = category.root | default: category.name | downcase %}
+              {% assign name = repo.name | default: repo.title %}
+              {% assign path = repo.path | default: repo.title | slugify %}
+              {% assign reqpath = "/" | append: root | append: "/" | append: path %}
+              <a class="dropdown-item" href="{{ reqpath | relative_url }}">{{ repo.title }}</a>
+            {%- endfor %}
+          </div>
+        </li>
+      {%- endfor -%}
     </ul>
   </div>
 

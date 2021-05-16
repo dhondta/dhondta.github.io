@@ -34,8 +34,7 @@ layout: base
           {% endfor %}
         </div>
       {% else %}
-        {% assign sorted = profile[section] | date_sort | reverse %}
-        {% for item in sorted %}
+        {% for item in profile[section] %}
         <div class="row w-75 p-3">
           <div class="col-md-offset-1 col-1">
             <img src="{{ item.logo }}" alt="{{ item.org }}">

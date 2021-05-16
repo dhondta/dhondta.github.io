@@ -4,7 +4,6 @@ title-fa: true
 description: Open source projects
 url: "https://projects.praxisec.be"
 baseurl: ""
-plugins_dir: ./_plugins
 
 # Navigation bar
 navbar-banner:
@@ -12,26 +11,6 @@ navbar-banner:
   img: /assets/img/banner.png
 navbar-links:
   Resume: /resume
-  'Python Modules':
-    - asciistuff: /python/asciistuff
-    - codext: /python/codext
-    - pybots: /python/pybots
-    - sploitkit: /python/sploitkit
-    - tinyscript: /python/tinyscript
-  Projects:
-    - AppmemDumper: /projects/appmemdumper
-    - 'Bots Scheduler': /projects/bots-scheduler
-    - DroneSploit: /projects/dronesploit
-    - 'Malicious Macro Tester': /projects/malicious-macro-tester
-    - 'Recursive Compression': /projects/recursive-compression
-    - 'RPL Attacks Framework': /projects/rpl-attacks
-    - WebGrep: /projects/webgrep
-    - 'Zotero CLI': /projects/zotero-cli
-  'Other resources':
-    - 'LaTeX Book Template': /others/tex-book-template
-    - 'LaTeX Course Index Template': /others/tex-course-index-template
-    - 'LaTeX Master Thesis Template': /others/tex-master-thesis-template
-    - 'Steganography Tools': /others/stegano-tools
 
 # Color options
 navbar-col: "#7E4FAD"
